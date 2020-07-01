@@ -8,3 +8,6 @@ git add
 git commit -m ""   -> In double quotes insert comment or description regarding that commit
 git log
 Git diff <filename>
+
+
+Privatebranch1 has been doing some work
